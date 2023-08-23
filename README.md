@@ -1,4 +1,8 @@
 # Payroll-System--Using-Python
-![Employee payroll system login](https://github.com/dnidimaneesha/Payroll-System--Using-Python/assets/84219532/3952170b-9049-41f1-a6cb-9849c11d9c33)
-![Payroll DB](https://github.com/dnidimaneesha/Payroll-System--Using-Python/assets/84219532/f71a2968-1af3-47c2-a54d-a454651ff295)
-![Payroll system UI](https://github.com/dnidimaneesha/Payroll-System--Using-Python/assets/84219532/f7b406c0-9e41-4778-9060-10eb8bc55564)
+
+Here I created software suitable for paying the salaries of the employees of an organization.  In this system, the admin can add employee details to the system. Admin can view employee detail. It also has the ability to accurately calculate an employee’s basic salary and final salary. That is, over time and ETF, EPF is added to the employee’s basic salary and the final salary balance is calculated accurately after deducting borrowings and taxes. This software can be controlled by the head of the officers. Here the user has to enter the Username and password to log in to the program. Also here the employee has the ability to check the accuracy of their salary reports. The primary purpose of this software is to calculate the salary.
+
+ Basically, I use to create this system Python and MySQL. IDE I used is PyCharm.
+ 
+
+ 
